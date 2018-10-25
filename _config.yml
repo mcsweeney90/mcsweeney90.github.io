@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "mcsweeney90 / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tom McSweeney"
 description              : &description "Applied Mathematics PhD student"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Thomas McSweeney"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : ""
+  bio              : ""
+  location         : "North-West England"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "thomas.mcsweeney1990@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/thomas-mcsweeney-518321146/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
