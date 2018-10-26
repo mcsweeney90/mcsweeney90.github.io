@@ -25,4 +25,8 @@ One interesting avenue I am currently investigating is how we can apply techniqu
 
 Interests
 ======
+* Numerical analysis.
+* High-performance computing.
+* Numerical algorithms and software.
+* Machine learning.
 
