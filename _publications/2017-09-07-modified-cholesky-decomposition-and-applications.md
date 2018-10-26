@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2017-09-07-modified-cholesky-decomposition-and-applications
 excerpt: 'My MSc thesis.'
 date: 2017-09-07
-venue: 'Journal 1'
 paperurl: 'http://mcsweeney90.github.io/files/modified-cholesky-decomposition-and-applications.pdf'
 citation: 'McSweeney, Thomas. (2017). &quot;Modified Cholesky Decomposition and Applications.&quot; MSc Thesis.'
 ---
