@@ -12,6 +12,7 @@ I am a second year PhD student in the School of Mathematics at the University of
 
 I am a member of the School's [Numerical Linear Algebra](https://nla-group.org/) group. 
 
+
 My research
 ======
 
@@ -20,3 +21,8 @@ Modern high-performance computing (HPC) architectures are becoming increasingly 
 The fundamental goal of my research is to develop effective strategies for scheduling the constituent tasks of large computational jobs on heterogeneous HPC systems.  
 
 One interesting avenue I am currently investigating is how we can apply techniques from reinforcement learning that have recently found success in other areas to this task scheduling problem. 
+
+
+Interests
+======
+
