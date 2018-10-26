@@ -18,10 +18,10 @@ Education
 Work experience
 ======
 * Summer 2017: MSc Summer student  
-  * [Numerical Algorithms Group](https://www.nag.co.uk/).
-  * Implemented a new subroutine for the NAG numerical software library.  
-  * Academic supervisor: Professor Nick Higham.
-  * Industrial supervisor: Dr Craig Lucas.
+  * [Numerical Algorithms Group](https://www.nag.co.uk/)
+  * Implemented a new subroutine for the NAG numerical software library  
+  * Academic supervisor: Professor Nick Higham
+  * Industrial supervisor: Dr Craig Lucas
 
   
 Skills
