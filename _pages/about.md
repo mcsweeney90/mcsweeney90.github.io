@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 I am a second year PhD student in the School of Mathematics at the University of Manchester, supervised by [Neil Walton](https://sites.google.com/site/neilwaltonswebsite/home) and co-supervised by [Nick Higham](http://www.maths.manchester.ac.uk/~higham/) and [Mawussi Zounon](https://mawussi.github.io/). 
+
+I am a member of the School's [Numerical Linear Algebra](https://nla-group.org/) group. 
 
 My research
 ======
