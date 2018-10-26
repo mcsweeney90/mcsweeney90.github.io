@@ -9,7 +9,7 @@ main:
   - title: "CV"
     url: /cv/
         
- - title: "Blog"
+  - title: "Blog"
     url: /year-archive/    
     
  # - title: "Guide"
