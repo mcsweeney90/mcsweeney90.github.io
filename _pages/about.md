@@ -23,10 +23,22 @@ The fundamental goal of my research is to develop effective strategies for sched
 One interesting avenue I am currently investigating is the application of reinforcement learning methods to this task scheduling problem. 
 
 
-Interests
+Academic interests
 ======
 * Numerical analysis.
 * High-performance computing.
 * Numerical algorithms and software.
 * Machine learning.
+
+Other interests
+======
+
+During the 2017/18 academic year, I was the Treasurer of the [University of Manchester SIAM-IMA Student Chapter](http://www.maths.manchester.ac.uk/~siam/). 
+
+In my spare time, I sometimes try my hand at coding challenges such as those found at [Project Euler](https://projecteuler.net/about).
+
+For several years I was a volunteer for the [British Heart Foundation](https://www.bhf.org.uk/) and this remains a cause I strongly support.  
+
+
+
 
