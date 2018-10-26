@@ -5,7 +5,6 @@ permalink: /publication/2017-09-07-modified-cholesky-decomposition-and-applicati
 excerpt: 'This is my MSc thesis.'
 date: 2017-09-07
 paperurl: 'http://academicpages.github.io/files/modified_cholesky_decomposition_and_applications.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This is my MSc thesis, which was sponsored by the Numerical Algorithms Group and concerned the modified Cholesky decomposition for symmetric indefinite matrices and its applications, which include computing a bound on the distance to the nearest correlation matrix.
 
