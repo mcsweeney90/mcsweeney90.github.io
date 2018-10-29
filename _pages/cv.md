@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematics, University of Manchester, 2011
-* M.Sc. in Applied Mathematics with Numerical Analysis, University of Manchester, 2017
-* Ph.D in Numerical Analysis, University of Manchester, 2021 (expected)
+* B.Sc. in Mathematics, University of Manchester, 2011.
+* M.Sc. in Applied Mathematics with Numerical Analysis, University of Manchester, 2017.
+* Ph.D in Numerical Analysis, University of Manchester, 2021 (expected).
 
 Work experience
 ======
-* Summer 2017: [Numerical Algorithms Group](https://www.nag.co.uk/), Summer student 
-  * Implemented a new subroutine for the NAG numerical software library  
-  * Supervisors: Professor Nick Higham and Dr Craig Lucas  
+* Summer 2017: [Numerical Algorithms Group](https://www.nag.co.uk/), Summer student. 
+  * Implemented a new subroutine for the NAG numerical software library.  
+  * Supervisors: Professor Nick Higham and Dr Craig Lucas.  
 
   
 Skills
 ======
-* Numerical analysis
+* Numerical analysis.
 * Computer programming
-  * Python
-  * C/C++
+  * Python,
+  * C/C++.
 
 <!---
 Publications
