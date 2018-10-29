@@ -24,7 +24,7 @@ Work experience
   
 Skills
 ======
-* Numerical analysis.
+* Numerical analysis
 * Computer programming
   * Python
   * C/C++.
