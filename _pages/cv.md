@@ -26,7 +26,7 @@ Skills
 ======
 * Numerical analysis.
 * Computer programming
-  * Python,
+  * Python
   * C/C++.
 
 <!---
