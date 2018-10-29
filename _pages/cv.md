@@ -27,7 +27,7 @@ Skills
 * Numerical analysis
 * Computer programming
   * Python
-  * C/C++.
+  * C/C++
 
 <!---
 Publications
