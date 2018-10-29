@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Tom McSweeney"
 author_profile: true
 redirect_from: 
   - /about/
