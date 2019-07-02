@@ -37,7 +37,7 @@ During the 2017/18 academic year, I was the Treasurer of the [University of Manc
 
 In my spare time, I sometimes try my hand at coding challenges such as those found at [Project Euler](https://projecteuler.net/about).
 
-For several years I was a volunteer for the [British Heart Foundation](https://www.bhf.org.uk/) and this remains a cause I strongly support.  
+For several years I have been a volunteer for the [British Heart Foundation](https://www.bhf.org.uk/).
 
 
 
