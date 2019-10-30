@@ -26,10 +26,10 @@ Academic interests
 ======
 * Numerical analysis.
 * High-performance computing.
-* Task-based programming.
 * Scheduling.
+* Task-based programming.
 * Numerical algorithms and software.
-* Machine learning (especially reinforcement learning).
+* Machine learning, especially reinforcement learning.
 
 Other interests
 ======
