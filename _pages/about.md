@@ -16,7 +16,9 @@ I am a member of the School's [Numerical Linear Algebra](https://nla-group.org/)
 My research
 ======
 
-Modern high-performance computing (HPC) architectures are increasingly likely to be heterogeneous, comprising multiple accelerators, usually GPUs, in addition to a host of multicore CPUs. To exploit the awesome potential of such systems, we must ensure that the constituent tasks of computational jobs are executed by the processing resources which are best suited to handle them. The overall aim of my research is to develop effective strategies for doing exactly this.  
+Modern high-performance computing (HPC) architectures are increasingly likely to be heterogeneous, comprising multiple powerful accelerators, usually GPUs, in addition to a host of multicore CPUs. But to exploit the awesome potential of such systems, we must ensure that the constituent tasks of computational jobs are executed by the processing resources which are best suited to handle them. 
+
+My research is focused on developing effective new strategies for doing exactly this.  
 
 
 
