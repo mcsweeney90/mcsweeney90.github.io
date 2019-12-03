@@ -21,14 +21,6 @@ Work experience
   * Implemented a new subroutine for the NAG numerical software library.  
   * Supervisors: Professor Nick Higham and Dr Craig Lucas.  
 
-  
-Skills
-======
-* Numerical analysis
-* Computer programming
-  * Python
-  * C/C++
-
 <!---
 Publications
 ======
