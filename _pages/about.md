@@ -16,7 +16,7 @@ I am a member of the School's [Numerical Linear Algebra](https://nla-group.org/)
 My research
 ======
 
-Modern parallel computers are increasingly likely to be heterogeneous, comprising, for example, multiple powerful accelerators, such as GPUs, in addition to a host of multicore CPUs. But to exploit the awesome potential of this new landscape, we must ensure that computational jobs are executed by the processing resources which are best suited to handle them. My research is focused on developing cheap and effective heuristic solutions to such scheduling problems.
+Modern parallel computers are increasingly likely to be heterogeneous, comprising, for example, multiple powerful accelerators, such as GPUs, in addition to a host of multicore CPUs. But to exploit the awesome potential of this new landscape, we must ensure that computational jobs are executed by the processing resources which are best suited to handle them. My research is focused on developing cheap and effective heuristics for such scheduling problems.
 
 
 
