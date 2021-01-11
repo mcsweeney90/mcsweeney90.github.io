@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in the School of Mathematics at the University of Manchester, supervised by [Neil Walton](https://sites.google.com/site/neilwaltonswebsite/home) and co-supervised by [Nick Higham](http://www.maths.manchester.ac.uk/~higham/) and [Mawussi Zounon](https://mawussi.github.io/). 
+I am a fourth year PhD student in the School of Mathematics at the University of Manchester, supervised by [Neil Walton](https://sites.google.com/site/neilwaltonswebsite/home) and co-supervised by [Nick Higham](http://www.maths.manchester.ac.uk/~higham/) and [Mawussi Zounon](https://mawussi.github.io/). 
 
 I am a member of the School's [Numerical Linear Algebra](https://nla-group.org/) group. 
 
@@ -16,7 +16,7 @@ I am a member of the School's [Numerical Linear Algebra](https://nla-group.org/)
 My research
 ======
 
-Modern high-performance computing (HPC) architectures are increasingly likely to be heterogeneous, comprising multiple powerful accelerators, usually GPUs, in addition to a host of multicore CPUs. But to exploit the awesome potential of such systems, we must ensure that the constituent tasks of computational jobs are executed by the processing resources which are best suited to handle them. My research is focused on developing effective new strategies for doing exactly this.  
+Modern parallel computers are increasingly likely to be heterogeneous, comprising, for example, multiple powerful accelerators, such as GPUs, in addition to a host of multicore CPUs. But to exploit the awesome potential of this new landscape, we must ensure that computational jobs are executed by the processing resources which are best suited to handle them. My research is focused on developing cheap and effective heuristic solutions to such scheduling problems.
 
 
 
@@ -24,8 +24,8 @@ Academic interests
 ======
 * Scheduling.
 * Numerical analysis.
-* High-performance computing.
-* Machine learning, especially reinforcement learning.
+* Machine learning.
+* Parallel/high-performance computing (HPC).
 
 Other interests
 ======
