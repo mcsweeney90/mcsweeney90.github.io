@@ -32,8 +32,3 @@ Other interests
 
 During the 2017/18 academic year, I was the Treasurer of the [University of Manchester SIAM-IMA Student Chapter](http://www.maths.manchester.ac.uk/~siam/). 
 
-For several years I was a volunteer for the [British Heart Foundation](https://www.bhf.org.uk/).
-
-
-
-
